@@ -189,6 +189,6 @@ window.SITE = {
   /* --- Подвал --- */
   footer: {
     legal: "",
-    credit: { text: "Сайт разработан в студии Сайтика", url: "https://xn----8sbanucgj0ddhgg4o.xn--p1ai/" }, // https://студия-сайтика.рф/
+    credit: { text: "Сайт разработан в студии Сайтика", url: "https://xn----8sbanucgj0ddhgg4o.xn--p1ai/?utm_source=client_sites&utm_medium=referral&utm_campaign=footer" }, // https://студия-сайтика.рф/ + UTM
   },
 };
